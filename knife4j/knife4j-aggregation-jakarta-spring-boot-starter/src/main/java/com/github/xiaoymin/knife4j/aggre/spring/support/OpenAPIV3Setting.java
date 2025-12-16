@@ -4,7 +4,7 @@
 package com.github.xiaoymin.knife4j.aggre.spring.support;
 
 import com.github.xiaoymin.knife4j.aggre.conf.GlobalConstants;
-import com.github.xiaoymin.knife4j.core.enums.GroupOrderStrategy;
+import com.github.xiaoymin.knife4j.aggre.core.enums.GroupOrderStrategy;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
